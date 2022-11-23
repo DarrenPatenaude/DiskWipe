@@ -1,5 +1,5 @@
-# JWipe
-<h1>JWipe - Disk Sanitization</h1>
+# DiskWipe
+<h1>DiskWipe - Disk Sanitization</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
